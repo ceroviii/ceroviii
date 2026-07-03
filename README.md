@@ -1,6 +1,4 @@
-## Hi there 👋
-
-![scout](https://gitfut.com/ceroviii)
+<img width="738" height="1122" alt="image" src="https://github.com/user-attachments/assets/df085f24-5c2b-485f-88e4-91632062c4ab" />
 ![My Skills](https://skillicons.dev/icons?i=rust,python,go,ts,svelte,tailwind,react,next,html,css,js&theme=light)
 <!--
 (https://bnierimi.vercel.app)
