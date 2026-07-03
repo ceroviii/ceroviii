@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-[https://gitfut.com/ceroviii]
-
+!(scout)[https://gitfut.com/ceroviii]
+[![My Skills](https://skillicons.dev/icons?i=rust,python,go,ts,svelte,tailwind,react,next,html,css,js&theme=light)]
 <!--
+(https://bnierimi.vercel.app)
 **ceroviii/ceroviii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
