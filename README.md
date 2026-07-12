@@ -4,12 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=360&height=44&lines=%26.*;%E2%A0%97%E2%A0%91%E2%A0%8E%E2%A0%A5%E2%A0%87%E2%A0%9E%E2%A0%8E" alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
-
-🌱 &nbsp;I'm currently learning **Rust and Distributed Systems**
-
-### 🛠️ Tech Stack
-
 <p align="left">
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
@@ -19,6 +13,7 @@
   <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
+
 ![My Skills](https://skillicons.dev/icons?i=rust,python,go,ts,svelte,tailwind,react,next,html,css,js&theme=light)
 
 ### 🔗 Connect With Me
