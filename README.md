@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-![My Skills](https://skillicons.dev/icons?i=rust,python,go,ts,svelte,tailwind,react,next,html,css,js&theme=light)
+<!-- ![My Skills](https://skillicons.dev/icons?i=rust,python,go,ts,svelte,tailwind,react,next,html,css,js&theme=light) -->
 
 ### 🔗 Connect With Me
 
